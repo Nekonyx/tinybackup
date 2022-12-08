@@ -1,0 +1,6 @@
+/build/
+/node_modules/
+/modules/*
+!/modules/.gitkeep
+/scripts/*
+!/scripts/.gitkeep
